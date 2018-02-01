@@ -1,9 +1,9 @@
 # EvalExpr
-<b>A calculator that performs basic operations including that with brackets</b>
 
-<strong>TRACE</strong>
+# TRACE :
 
-= Host-specific information ====================================================
+# = Host-specific information ====================================================
+
 $> hostname; uname -msr
 e1r10p20.42.fr
 Darwin 15.6.0 x86_64
